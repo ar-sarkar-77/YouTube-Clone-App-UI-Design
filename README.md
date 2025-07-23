@@ -10,9 +10,10 @@ This repository contains a custom UI design of a YouTube Clone App built for pra
 
 ---
 
-## 🖼️ Preview
+## Preview
+![YouTube Clone](https://www.figma.com/design/cLFtjbyeSHupoYj8ER2JvV/Youtube-Clone?node-id=1-2&t=HGGqFCEy8TuURhYe-1)
 
-![YouTube Clone](design/youtube-clone-ui.jpg)
+Figma File Link: https://www.figma.com/design/cLFtjbyeSHupoYj8ER2JvV/Youtube-Clone?node-id=1-2&t=HGGqFCEy8TuURhYe-1
 
 ---
 
@@ -37,11 +38,6 @@ The purpose of this project is to design and prototype a modern YouTube-like use
 - Inspiring future development of full-featured clone apps  
 
 ---
-
-## Preview
-![YouTube App Design Preview](https://www.figma.com/design/cLFtjbyeSHupoYj8ER2JvV/Youtube-Clone?node-id=1-2&t=HGGqFCEy8TuURhYe-1)
-
-Figma File Link: https://www.figma.com/design/cLFtjbyeSHupoYj8ER2JvV/Youtube-Clone?node-id=1-2&t=HGGqFCEy8TuURhYe-1
 
 # 🔧 Tech Stack
 
